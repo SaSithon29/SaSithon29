@@ -1,5 +1,5 @@
 # ABOUT ME
-<h2 align="center">Hi 👋, I'm Sasithon Dontree</h2>
+<h1 align="center">Hi 👋, I'm Sasithon Dontree</h1>
 
 <h3 align="center">I'm interested in learning new things and every thing.</h3>
 
@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/SaSithon29](https://github.com/SaSithon29)
 
 - 💬 Ask me about **Financial planning, Project planing, Risk avoidance planning**
+
+- 🎓My Skills 
 
 - 📫 How to reach me **sasithondontree@outlook.com**
 
