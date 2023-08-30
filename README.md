@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sasithon Dontree</h1>
-
 <h2 align="center">I'm interested in learning new things and every thing.</h2>
 
 <h4>
   
 - 🌱 I’m currently learning **Python, Microsoft Excel etc.**  
   
-- 🌱 I’m currently have basic knowledge: **Static, SQL, DataBase, HTML, JavaScript, Vue, UX/UI, Scrum and Agile** 
+- 🌱 I’m currently have basic knowledge: **Static, SQL, DataBase, HTML, UX/UI, Scrum and Agile** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SaSithon29](https://github.com/SaSithon29)
 
