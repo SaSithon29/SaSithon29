@@ -1,7 +1,7 @@
 # ABOUT ME
 <h1 align="center">Hi 👋, I'm Sasithon Dontree</h1>
 
-<h3 align="center">I'm interested in learning new things and every thing.</h3>
+<h2 align="center">I'm interested in learning new things and every thing.</h2>
 
 <h4>
   
