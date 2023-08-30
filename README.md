@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Financial planning, Project planing, Risk avoidance planning**
 
-- Special Experience: 
+- Special Experience: **https://medium.com/@sasithondontree**
 
 - 📫 How to reach me **sasithondontree@outlook.com**
 </h4>
