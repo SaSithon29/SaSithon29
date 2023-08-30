@@ -3,6 +3,7 @@
 
 <h3 align="center">I'm interested in learning new things and every thing.</h3>
 
+<h4>
 - 🌱 I’m currently learning **Python, Microsoft Excel etc.**
 - 🌱 I’m currently have basic knowledge: **Static, SQL, DataBase, HTML, JavaScript, Vue, UX/UI, Scrum and Agile** 
 
@@ -10,10 +11,10 @@
 
 - 💬 Ask me about **Financial planning, Project planing, Risk avoidance planning**
 
-- 🎓My Skills 
+- Special Experience: 
 
 - 📫 How to reach me **sasithondontree@outlook.com**
-
+</h4>
 
 
 <h3 align="left">Connect with me:</h3>
