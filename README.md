@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Financial planning, Project planing, Risk avoidance planning**
 
-- Special Experience: **https://medium.com/@sasithondontree**
-
 - 📫 How to reach me **sasithondontree@outlook.com**
 
 - Certificate: **https://github.com/SaSithon29/SaSithon29/blob/201e6dc1cfb6254b044f87a072a8d9bce434a23c/mpdf.pdf**
